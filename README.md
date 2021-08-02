@@ -41,7 +41,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 ## 🎵Spotify Playing🎵
 
-
+[![Spotify](https://spotify-widget-for-github.vercel.app/api/spotify)](https://open.spotify.com/user/6f282cc152224c05a3754efa393da375)
 
 ## 🌍Connect with me:
 
