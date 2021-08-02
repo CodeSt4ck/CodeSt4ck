@@ -19,33 +19,34 @@ I'm a software engineer who is passionate about making open-source more accessib
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/java.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/java-script.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/python.png">
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/r.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/html-5.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/css.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/php.png">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/r.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/visual-studio.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/android.png">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/CodeSt4ck/CodeSt4ck/blob/main/Icons/data-visualization.png">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/databases.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/github.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/linux.png">
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/databases.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/ml-ai.png">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/c.png">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/c.png">
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/CodeSt4ck/CodeSt4ck/blob/main/Icons/data-visualization.png">
 
+<br>
 
 ## GithHub Stats:
 
 
+
 ## 🎵Spotify Playing🎵
 
-[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 
 ## 🌍Connect with me:
 
 [<img align="left" alt="Under Development" width="22px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/website.png" />][website]
 [<img align="left" alt="Piyush Jangid | LinkedIn" width="22px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/linkedin.png" />][linkedin]
 [<img align="left" alt="Piyush Jangid | Instagram" width="22px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/instagram.png" />][instagram]
+<img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
 
 [website]: https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/Icons/site-under-construction-page-error.jpg
 [instagram]: https://www.instagram.com/_.piyush.py._/
