@@ -35,7 +35,6 @@ I'm a software engineer who is passionate about making open-source more accessib
 <img align="left" alt="Databases" width="26px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/images/databases.png">
 <img align="left" alt="ML/AI" width="26px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/images/ml-ai.png">
 <img align="left" alt="Data Visualization" width="26px" src="https://github.com/CodeSt4ck/CodeSt4ck/blob/main/images/data-visualization.png"> -->
-<br>
 
 ### ✨GithHub Stats:
 
