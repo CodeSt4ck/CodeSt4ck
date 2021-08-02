@@ -59,6 +59,6 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 [<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-[website]: https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/master/
+[website]: https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/master/site-under-construction-page-error.jpg
 [instagram]: https://www.instagram.com/_.piyush.py._/
 [linkedin]: https://www.linkedin.com/in/piyush-jangid/
