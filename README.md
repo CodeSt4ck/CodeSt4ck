@@ -1,6 +1,6 @@
 # Hi there, I'm Piyush - aka CodeSt4ck 👋
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/master/profile-header-image.gif" alt="banner that says Piyush Jangid - Bulding tech to elevate people. Software Developer and Learner. Eat ● Sleep ● Code ● Repeat alongside a cartoon illustration of Piyush">
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2FcodeSTACKr.com)](https://codeSTACKr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
