@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2FcodeSTACKr.com)](https://codeSTACKr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Developer, Student and Teacher!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -48,47 +48,6 @@
 <br />
 
 ---
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [STACKr News Shorts - Issue 4 - Syntax.fm Potluck](https://www.youtube.com/watch?v=x8HNcal4fw0)
-- [VS Code has Browser Dev Tools and Built-in JavaScript Debugging!!](https://www.youtube.com/watch?v=Uf44SDEl1HM)
-- [STACKr News Shorts - Issue 4 - How to learn Git slowly](https://www.youtube.com/watch?v=lLGVf4vjo9E)
-- [STACKr News Shorts - Issue 4 - Solve This Coding Question To Win $200](https://www.youtube.com/watch?v=fg7ccFTJ4gI)
-- [STACKr News Shorts - Issue 4 - How I Built the Portfolio That Landed Me a Dev Role](https://www.youtube.com/watch?v=2k0icnHfCC0)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codeSTACKr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codeSTACKr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codeSTACKr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codeSTACKr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codeSTACKr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codeSTACKr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codeSTACKr.com)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/portfolio-sass/pull/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codeSTACKr-vscode-theme/issues/10) in [codeSTACKr/codeSTACKr-vscode-theme](https://github.com/codeSTACKr/codeSTACKr-vscode-theme)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/codeSTACKr-vscode-theme/issues/11) in [codeSTACKr/codeSTACKr-vscode-theme](https://github.com/codeSTACKr/codeSTACKr-vscode-theme)
-5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
