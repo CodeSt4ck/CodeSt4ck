@@ -4,22 +4,13 @@
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include C/C++, Java, Python, Machine Learning, and Deep Learning. Profound ability in Analytical Tools, Statistics, and Computing Methodologies.
 
-## I'm a Developer, Student and Teacher!
+## 💻I'm a Developer, Student and Teacher!
 
 - 👨‍🎓 I’m currently learning everything
 - 🤝🏻 I’m open to collaborate with other developers
 - ✨ Goal: To Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do gymnastics, listening music and play guitar /games
 
-
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -40,24 +31,21 @@ I'm a software engineer who is passionate about making open-source more accessib
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-<br />
-<br />
+---
+
+### GithHub Stats:
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codeSTACKr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2FcodeSTACKr.com)](https://codeSTACKr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-### Spotify Playing 🎵
+### 🎵Spotify Playing🎵
 
 [<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+### 🌍Connect with me:
+
+[<img align="left" alt="Under Development" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Piyush Jangid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Piyush Jangid | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/master/site-under-construction-page-error.jpg
 [instagram]: https://www.instagram.com/_.piyush.py._/
