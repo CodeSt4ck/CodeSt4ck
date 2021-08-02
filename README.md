@@ -4,7 +4,7 @@
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include C/C++, Java, Python, Machine Learning, and Deep Learning. Profound ability in Analytical Tools, Statistics, and Computing Methodologies.
 
-<h3 align="center">A passionate Software Developer from India <sub><img width="25" height="25" src="https://countryflags.io/IN/shiny/64.png" alt="India's Flag"></sub></h3>
+<h3 align="center">A passionate Software Developer from India <sub><img width="25" height="20" src="https://countryflags.io/IN/shiny/64.png" alt="India's Flag"></sub></h3>
 
 ---
 
