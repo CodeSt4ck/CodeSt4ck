@@ -51,7 +51,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 [<img align="left" alt="Under Development" width="22px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/images/website.png" />][website]
 [<img align="left" alt="Piyush Jangid | LinkedIn" width="22px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/images/linkedin.png" />][linkedin]
 [<img align="left" alt="Piyush Jangid | Instagram" width="22px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/images/instagram.png" />][instagram]
-<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/images/greetings.png">
+<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/images/greetings-gif.gif">
 
 [website]: https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/images/site-under-construction-page-error.jpg
 [instagram]: https://www.instagram.com/_.piyush.py._/
