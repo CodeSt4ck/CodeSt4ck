@@ -53,6 +53,6 @@ I'm a software engineer who is passionate about making open-source more accessib
 [<img align="left" alt="Piyush Jangid | Instagram" width="22px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/images/instagram.png" />][instagram]
 <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/images/greetings-gif.gif">
 
-[website]: https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/images/site-under-construction-page-error.jpg
+[website]: https://codest4ck.github.io/github-slideshow/#/
 [instagram]: https://www.instagram.com/_.piyush.py._/
 [linkedin]: https://www.linkedin.com/in/piyush-jangid/
