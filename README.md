@@ -39,8 +39,8 @@ I'm a software engineer who is passionate about making open-source more accessib
 ### ✨GithHub Stats:
 
 [![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeSt4ck&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![Piyush's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSt4ck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Piyush's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeSt4ck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Piyush's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSt4ck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Piyush's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeSt4ck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ### 🎵Listening on Spotify:
 
