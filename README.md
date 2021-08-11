@@ -1,4 +1,4 @@
-<h3 align="center">Hello there, I'm Piyush | AKA - CodeSt4ck 👋</h3>
+<h3 align="center">Hello there, I'm Piyush 👋</h3>
 
 <img src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/images/profile-header-image.gif" alt="banner that says Piyush Jangid - Bulding tech to elevate people. Software Developer and Learner. Eat ● Sleep ● Code ● Repeat alongside a cartoon illustration of Piyush">
 
